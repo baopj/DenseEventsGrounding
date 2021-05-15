@@ -4,12 +4,12 @@
 This is a pytorch implementation of **Dense Events Propagation Network (DepNet)**  on ActivityNet Captions for the AAAI paper "Dense Events Grounding in Video" .
 Please note that this project is still under construction, and we will modify and optimize part of the code in the future.
 
-[Paper Preprint](http://www.muyadong.com/paper/3254_PeijunB.pdf)
+[Paper Preprint](https://github.com/baopj/DenseEventsGrounding/blob/main/DepNet_ANet_Release/files_/AAAI21_DenseEventsGrounding.pdf)
 
 ## Dataset
 Please download the visual features from the official website of ActivityNet: [Official C3D Feature](http://activity-net.org/download.html).
 
-And you can download preprocessed annotation files [here](). 
+And you can download preprocessed annotation files [here](https://github.com/baopj/DenseEventsGrounding/blob/main/DepNet_ANet_Release/files_/acnet_annot.zip). 
 
 
 
