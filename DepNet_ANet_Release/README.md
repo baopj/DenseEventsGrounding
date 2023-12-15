@@ -1,17 +1,13 @@
 # Dense Events Grounding in Video (AAAI 2021)
 
 ## Introduction
-This is a pytorch implementation of **Dense Events Propagation Network (DepNet)**  on ActivityNet Captions for the AAAI paper "Dense Events Grounding in Video" .
-Please note that this project is still under construction, and we will modify and optimize part of the code in the future.
+This is a pytorch implementation of **Dense Events Propagation Network (DepNet)**  on ActivityNet Captions for the AAAI 2021 paper "Dense Events Grounding in Video" .
 
-[Paper Preprint](https://github.com/baopj/DenseEventsGrounding/blob/main/DepNet_ANet_Release/files_/AAAI21_DenseEventsGrounding.pdf)
+- [pdf](https://peijunbao.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf)
+- [code](https://github.com/baopj/DenseEventsGrounding/tree/main/DepNet_ANet_Release)
 
 ## Dataset
-Please download the visual features from the official website of ActivityNet: [Official C3D Feature](http://activity-net.org/download.html).
-
-And you can download preprocessed annotation files [here](https://github.com/baopj/DenseEventsGrounding/blob/main/DepNet_ANet_Release/files_/acnet_annot.zip). 
-
-
+Please download the visual features from the official website of ActivityNet: [Official C3D Feature](http://activity-net.org/download.html). And you can download preprocessed annotation files [here](https://github.com/baopj/DenseEventsGrounding/blob/main/DepNet_ANet_Release/files_/acnet_annot.zip). 
 
 ## Prerequisites
 - python 3.5
@@ -26,8 +22,7 @@ Use the following commands for training:
 cd moment_localization && export CUDA_VISIBLE_DEVICES=0
 python dense_train.py --verbose --cfg ../experiments/dense_activitynet/acnet.yaml
 ```
-
-You may get better results than that reported in our paper thanks to some code updates.
+You may get better results than that reported in our paper thanks to the code updates.
 
 
 ### Citation
