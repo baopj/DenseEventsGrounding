@@ -1,7 +1,7 @@
-# Dense Events Grounding in Video (AAAI 2021)
+# Dense Events Grounding in Video (AAAI 2021 oral)
 
 ## Introduction
-This is a pytorch implementation of **Dense Events Propagation Network (DepNet)**  on ActivityNet Captions for the AAAI 2021 paper "Dense Events Grounding in Video" .
+This is a pytorch implementation of **Dense Events Propagation Network (DepNet)**  on ActivityNet Captions for the AAAI 2021 oral paper "Dense Events Grounding in Video" .
 
 - [pdf](https://peijunbao.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf)
 - [code](https://github.com/baopj/DenseEventsGrounding/tree/main/DepNet_ANet_Release)
