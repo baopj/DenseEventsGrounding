@@ -28,11 +28,9 @@ You may get better results than that reported in our paper thanks to the code up
 ### Citation
 If you use our code or models in your research, please cite with:
 ```
-@inproceedings{densegrounding,
-  author    = {Peijun Bao and
-               Qian Zheng and
-               Yadong Mu},
-  title     = {Dense Events Grounding in Video,
+@inproceedings{bao2021dense,
+  title     = {Dense Events Grounding in Video},
+  author    = {Bao, Peijun and Zheng, Qian and Mu, Yadong},
   booktitle = {AAAI},
   year      = {2021}
 }
